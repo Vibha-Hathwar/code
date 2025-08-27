@@ -15,7 +15,7 @@ Output: 0
 Explanation: No triangles are possible.*/
 
 class Solution {
-    public int countTriangles(int arr[]) {
+    public int countTriangles(int a[]) {
         // code here
         int n = a.length;
         Arrays.sort(a);
