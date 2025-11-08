@@ -8,3 +8,4 @@
 8. CountTriArr.java - Count the number of possible triangles - 27/08
 9. tileFloor.py - ways to tile a floor- gfg POD 6/11
 10. wjobschedul.py - weighted job schedule - gfg POD 7/11
+11. Number of paths in a matrix with k coins - gfg POD 8/11
