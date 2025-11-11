@@ -1,5 +1,4 @@
 '''Shortest Common Supersequence
-Difficulty: MediumAccuracy: 55.62%Submissions: 139K+Points: 4
 
 Given two strings s1 and s2, find the length of the smallest string which has both s1 and s2 as its sub-sequences.
 Note: s1 and s2 can have both uppercase and lowercase English letters.
